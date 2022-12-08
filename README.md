@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xdirtynerdy
-- 👀 I’m interested in ... hardware hacking, Phreaking,One Piece,OSINT,anything self hoastable,
+- 👀 I’m interested in ... hardware hacking, Phreaking,One Piece,OSINT,anything self hoastable,cryptocurrency
 - 🌱 I’m currently learning ... python,UART,
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... 
