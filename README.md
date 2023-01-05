@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @xdirtynerdy
 - 👀 I’m interested in ... hardware hacking, Phreaking,One Piece,OSINT,anything self hoastable,cryptocurrency
-- 🌱 I’m currently learning ... python,UART,
+- 🌱 I’m currently learning ... python,UART, chef skills,
 - 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... 
+- 📫 How to reach me ... dirtynerdy@discomob.org
 
 <!---
 xdirtynerdy/xdirtynerdy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
